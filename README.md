@@ -1,6 +1,6 @@
 # CS 540 - Advanced Software Engineering 
 
-This file contains the links for the lectures for Advanced Software Engineering (CS 540) taught by Dr Mark Grechanik at the UIC - Class Spring 2021
+This file contains the links to the lectures for Advanced Software Engineering (CS 540) taught by Dr Mark Grechanik at the UIC - Class Spring 2021
 
 |Number|Week|Date|Lecture Link| Important links shared in Class|
 |---|---|----|---|---|
