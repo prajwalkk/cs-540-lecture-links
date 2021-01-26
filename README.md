@@ -1,6 +1,4 @@
-# cs-540-lecture-links
-
-This is kept private to not give access to anyone outside of UIC.
+# CS 540 - Advanced Software Engineering - Lectures' links
 
 |Number|Week|Date|Lecture Link| Important links shared in Class|
 |---|---|----|---|---|
