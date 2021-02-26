@@ -22,3 +22,5 @@ This file contains the links to the lectures for Advanced Software Engineering (
 |10|Week 5|2021-02-11|[Link](https://uic.zoom.us/rec/play/jS4RR63k7lajci4Ae7vzFG6BpBs6dCiPd0AV1B8cmwG02R3l8H6n9ELtbD20nd14Ovs6Xj0vMwJoR7R8.dOr0YT4rbMJ8D6E9?continueMode=true)||
 |11|Week 6|2021-02-16|[Link](https://uic.zoom.us/rec/play/AhUYL_k2yfuNWPu6GWk9pYIJ2BGR0s_-NXp5N7FIBwSTsakmI7yrWk3sRCvwV8auY2by2yU7XciU5eE0.EOpM98diSW3uPZjO?continueMode=true)||
 |12|Week 6|2021-02-18|[Link](https://uic.zoom.us/rec/play/pbWbo2lCN8wCq-o1lmCbO6UKVCM_7P3yowXANTjV_Evxlz8OCO0mZ7IHBB_Aywdcn-Ia0fWHjUVG-o92.Kfh8AWMIHFB6R4Iu?continueMode=true)||
+|12|Week 7|2021-02-23|[Link](https://uic.zoom.us/rec/play/udmlRf_IQdYnWk3hi0EzhVmYsw7vYoU3nCjopB6rp5Z93RMjBSbZm-BfJp85BlbnDe0dyV9MWmSjXJOu.JVzowZTTJnCE84EJ?continueMode=true)||
+|12|Week 7|2021-02-25|[Link](https://uic.zoom.us/rec/play/LWi5P8yk-iv9JRkhLNKJsV8_ZH9AzGf8_qtmBxr1-3-bR45CZ6UvaRPc_1gACE4RNyEit_RIFxa-blc.uj1THVZWBuiC5Q5H?continueMode=true)||
